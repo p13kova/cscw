@@ -95,3 +95,14 @@ injured=τραυματισμένος
 irony=ειρωνία
 irritated=ενοχλημένος
 
+##Παραδοτέο 3 
+Πραγματοποιήθηκαν  μετατροπές τόσο στην οπτικοποίηση στην ψηφιακή υδρόγειο (αλλαγή υφής και ταχύτητας περιστροφής) αλλά και εισάχθηκε
+περιορισμός στην γεωγραφική περιoχή προέλευσης των tweet.
+Τα αντίστοιχα λίνκ των branches με τις αλλαγές δίνονται παρακάτω.
+
+Λίνκ αλλαγής υφής και περιστροφής:
+https://github.com/p13kova/twitter-stream-globe/tree/allagi-udrogeiou
+
+
+Λίνκ περιορισμού γεωγραφικής περιoχής προέλευσης tweet:
+https://github.com/p13kova/twitter-stream-globe/tree/%CF%80%CE%B5%CF%81%CE%B9%CE%BF%CF%81%CE%B9%CF%83%CE%BC%CF%8C%CF%82-%CE%B3%CE%B5%CF%89%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CE%AE%CF%82-%CF%80%CE%B5%CF%81%CE%B9o%CF%87%CE%AE%CF%82
